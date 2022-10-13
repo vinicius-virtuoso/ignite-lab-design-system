@@ -21,7 +21,7 @@ export function App() {
           <Checkbox />
           <Text size="sm">Lembrar-me de mim por 30 dias</Text>
         </div>
-        <Button>Create account</Button>
+        <Button>Create account 1</Button>
       </div>
     </div>
   );
